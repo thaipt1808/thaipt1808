@@ -3,12 +3,12 @@
 **Fresher Data Scientist · AI / ML Systems Engineer**  
 Building end-to-end production AI pipelines across **NLP, RAG, Computer Vision, Speech AI (STT/TTS), and Automated AI Evaluation**.
 
-🌐 **Live Interactive Portfolio (5 Systems):** [https://thaipt.io.vn](https://thaipt.io.vn)  
-📧 **Email:** phamthaibh2003@gmail.com
+**- Live Interactive Portfolio (5 Systems):** [https://thaipt.io.vn](https://thaipt.io.vn)  
+**- Email:** phamthaibh2003@gmail.com
 
 ---
 
-## 🚀 Live AI Product Suite (`thaipt.io.vn`)
+## Live AI Product Suite (`thaipt.io.vn`)
 
 > All 5 systems run live behind a **Scale-to-Zero Orchestrator Portal** (`https://thaipt.io.vn`) for one-click interactive testing—including built-in sample documents, images, audio, and 1-click demo accounts so reviewers can test immediately without setup.
 
@@ -22,7 +22,7 @@ Building end-to-end production AI pipelines across **NLP, RAG, Computer Vision, 
 
 ---
 
-## 🏗️ High-Level Architecture
+## High-Level Architecture
 
 ```mermaid
 flowchart LR
@@ -38,7 +38,7 @@ flowchart LR
 
 ---
 
-## 📊 Verified End-to-End Evaluation Results
+## Verified End-to-End Evaluation Results
 
 Measured directly against live containerized microservices via `https://eval.thaipt.io.vn` and standalone E2E acceptance suites:
 
@@ -52,7 +52,7 @@ Measured directly against live containerized microservices via `https://eval.tha
 
 ---
 
-## 🧪 Quick Guide for Reviewers (`thaipt.io.vn`)
+## Quick Guide for Reviewers (`thaipt.io.vn`)
 
 1. Open **[https://thaipt.io.vn](https://thaipt.io.vn)** and click **"Bật & Trải nghiệm"** on any sleeping AI system (~15–30s cold start; Scale-to-Zero automatically manages memory).
 2. Try built-in samples right inside each app:
